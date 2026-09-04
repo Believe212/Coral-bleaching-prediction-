@@ -52,7 +52,7 @@ Left: Relative importance of predictors in the Random Forest model. Right: ROC c
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd <repo-name>
+   cd Coral-bleaching-prediction-
    ```
 
 2. Install dependencies:
@@ -69,4 +69,4 @@ Left: Relative importance of predictors in the Random Forest model. Right: ROC c
 
 ## Author
 Believe Nosakhare  
-Email: believehsam@gmail.com
+Email: believenosak@gmail.com
